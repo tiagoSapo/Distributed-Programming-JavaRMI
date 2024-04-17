@@ -6,7 +6,7 @@ This repository contains the source code of a project developed as part of a dis
 
 Before running the project, you need to set up the development environment:
 
-1. **Database:** Use MySQLWorkbench to create a database by executing the SQL code provided in the `codigo_bd.sql` file.
+1. **Database:** Use MySQLWorkbench to create a database by executing the SQL code provided in the `database-code.sql` file.
 
 2. **User Accounts:** Create user accounts with administrative privileges using MySQLWorkbench.
 
